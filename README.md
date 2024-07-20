@@ -2,25 +2,25 @@
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2ZWZ3bXpjOTIycHVjbmJ5dDN5ajY1bG02Zm5vMHExc2prdzVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="400" height="400">
 
-### Hi there, I am Jaseemuddin Naseem 👋
+### Hey there, They call me Bhavya Deveshwar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jaseemuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaseemuddin/)](https://www.linkedin.com/in/jaseemuddin/)
-[![Gmail Badge](https://img.shields.io/badge/-njaseemuddin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njaseemuddin@gmail.com)](mailto:njaseemuddin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-jaseemuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-deveshwar/)](https://www.linkedin.com/in/bhavya-deveshwar/)
+[![Gmail Badge](https://img.shields.io/badge/-bhavyadeveshwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhavyadeveshwar@gmail.com)](mailto:njaseemuddin@gmail.com)
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseemuddinn" alt="jaseemuddin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavyadeveshwar" alt="Bhavyadeveshwar" /> </p>
 </br>
 
-- 🎯 Portfolio website: [Portfolio](https://mjnaseem.com/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Thing(s) I love**
+
+
+💻 **Thing(s) that love me**
 
 - Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - (Figuring out) 🤓
     <!---
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=jaseemuddinn&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=Bhavyadeveshwar&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a> --->
 
 🛠**Tech Stack**
@@ -57,6 +57,6 @@
 
 
 <!---
-jaseemuddinn/jaseemuddinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
