@@ -1,6 +1,7 @@
 <!--img align="right" src="https://media.giphy.com/media/nKWDeysTQBv9u/giphy.gif" alt="Coder GIF" width="420" height="330">
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2ZWZ3bXpjOTIycHVjbmJ5dDN5ajY1bG02Zm5vMHExc2prdzVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b76110gth09rlc19yypca2miimixxduy2zui8xmxf0dzs&ep=v1_gifs_search&rid=giphy.gif&ct=g
+    gif" alt="Coder GIF" width="400" height="400">
 
 ### Hey there, They call me Bhavya Deveshwar 👋
 
