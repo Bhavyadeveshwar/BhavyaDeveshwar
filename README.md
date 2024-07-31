@@ -51,8 +51,9 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
 <div align="center">
-    <h3 align="center">⭐ : Show some &nbsp;❤️&nbsp; to my repositories!</h3>
+    <h3 align="center">⭐ : DO check  &nbsp;❤️&nbsp; repositories!</h3>
 </div>
 
 
