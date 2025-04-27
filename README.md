@@ -5,7 +5,7 @@
 ### Hey there, They call me Bhavya Deveshwar 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-bhavyadeveshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-deveshwar/)](https://www.linkedin.com/in/bhavya-deveshwar/)
-[![Gmail Badge](https://img.shields.io/badge/-bhavyadeveshwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhavyadeveshwar@gmail.com)](mailto:njaseemuddin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bhavyadeveshwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhavyadeveshwar@gmail.com)])
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhavyadeveshwar" alt="Bhavyadeveshwar" /> </p>
